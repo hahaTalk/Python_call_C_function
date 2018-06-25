@@ -1,5 +1,5 @@
 # Python Call C function 
-Use Python program to call C function with Python-C-API.
+Use Python program to call C function with Python-C-API.  
 Pass data type of floating, string, list and numpy array between Python and C
 
 
